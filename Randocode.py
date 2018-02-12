@@ -1,4 +1,4 @@
 def Rando():
-  random.choice('abcdefghij')
+  random.choice('abcdefghijxyz')
 
 Rando()
